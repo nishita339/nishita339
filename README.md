@@ -1,8 +1,16 @@
 # Hi, I’m Nishita Singh
-I am an aspiring AI/ML engineer and a proficient MERN stack developer. I build end-to-end machine learning systems and production-ready web applications, focusing on reproducible experiments, optimized inference, and clean, well-documented code. I am open to research internships and entry-level engineering roles.
+Aspiring AI/ML engineer and MERN stack developer. I build end‑to‑end machine learning systems and production‑ready web applications—focusing on reproducible experiments, low‑latency inference, and clean, well‑documented code.
 
-## About me
-I apply machine learning to practical problems and productionize models as low-latency services. I also develop full-stack web applications using the MERN stack, connecting model backends to responsive frontends and reliable APIs.
+TL;DR: I train and optimize ML models, containerize them (FastAPI/Docker), and connect them to MERN frontends for demos and deployments.
+
+---
+
+## Selected projects
+- Smart‑Face2Avatar — PyTorch, TorchScript, FastAPI, Docker · p95 latency 120 ms ·
+- Robust Fake‑News Classifier — DeBERTa, SHAP, reproducible experiments · 
+- MLOps Pipeline — Airflow, MLflow, automated retrain + drift detection · 
+
+---
 
 ## Core skills
 - AI / Machine Learning: Python, PyTorch, TensorFlow, scikit-learn, Hugging Face (Transformers), NLP, Computer Vision  
@@ -11,23 +19,21 @@ I apply machine learning to practical problems and productionize models as low-l
 - MLOps & DevOps: Docker, MLflow, Airflow, GitHub Actions, basic Kubernetes  
 - Data & tooling: Pandas, NumPy, SQL, Redis, Git, Linux
 
-## Currently learning
-- Advanced deep learning techniques and transfer learning strategies  
-- Robust model monitoring and automated retraining pipelines  
-- Scalable deployments with Kubernetes and production-grade observability
+---
 
-## Selected projects
-- Smart-Face2Avatar — End-to-end image stylization: PyTorch training, TorchScript optimization, FastAPI + Docker deployment.
-- Robust Fake-News Classifier — Transformer-based classifier with SHAP explanations and reproducible experiments.
-- MLOps Pipeline — Automated training, model registry (MLflow), and drift detection with Airflow. 
-- Task Microservices — MERN microservices example with Docker and CI/CD. 
-- Portfolio Website — Personal site showcasing projects, demos, and contact information. 
+## Current focus
+- Advanced deep learning (transfer learning, model optimization)  
+- Productionizing ML: monitoring, CI/CD and model registries  
+- Scalable MERN backends and deployable demos
 
+---
 
 ## Looking to collaborate on
 Open to internships, research projects, and practical ML + MERN implementations — especially projects that involve deploying models to production and building user-facing interfaces.
 
+---
+
 ## Contact
 Email: nishita.singh539@gmail.com  
 LinkedIn: www.linkedin.com/in/nishitasingh30
-Portfolio: https://your-portfolio.example.com
+
